@@ -19,17 +19,28 @@
 <br><br><br>
 
 
-[Research conducted by the undergraduate programs in:
 
 
+#  
+
+<br><br>
+
+<!--End-->
 
 
-***Humanistic AI and Data Science** 
+> [!TIP]
+>
+> [Research conducted by the undergraduate programs in]():
+>
+>   * [***Humanistic AI and Data Science**]() PUC-SP
+>
+>   * *[*Organizational Psychology**]() at PUC-SP,
+>
+>   * [**TEDE-PUC-SP**]()
+>  
+> 
 
-**Organizational Psychology** at PUC-SP,
-
-**TEDE-PUC-SP]()**
+<br><br>
   
-[**PUC-SP**]()   
 
 
