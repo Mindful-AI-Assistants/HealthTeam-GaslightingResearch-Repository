@@ -37,7 +37,7 @@ Gaslighting at Work: Self-Defense and
 >
 >   * [***Humanistic AI and Data Science**]() at PUC-SP
 >
->   * *[*Organizational Psychology**]() at PUC-SP,
+>   * [**Organizational Psychology**]() at PUC-SP
 >
 >   * [**TEDE-PUC-SP**]()
 >  
