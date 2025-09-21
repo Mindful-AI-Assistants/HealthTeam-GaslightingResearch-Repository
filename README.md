@@ -7,8 +7,7 @@
 <br><br>
 
 
-# <p align="center">  𝚿 [Health Team](): Gaslighting in the Workplace 
-### <p align="center"> Strategies for Self-Defense and Healthy Team Management
+# <p align="center">  𝚿 [Healthy Team Management](): Gaslighting in the Workplace 
 ### <p align="center">  A Psychological Guide for Managers, HR Professionals, and Psychologists
 
 <br><br><br>
@@ -21,7 +20,7 @@
 <br><br><br>
 
 
-
+Gaslighting at Work: Self-Defense and
 
 #  
 
