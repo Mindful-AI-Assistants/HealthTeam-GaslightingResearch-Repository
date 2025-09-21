@@ -36,7 +36,7 @@
 >
 >   * [**Organizational Psychology**]() at PUC-SP
 >
->   * [**TEDE-PUC-SP**]()
+>   * [**TIDD-PUC-SP**]()
 >  
 > 
 
