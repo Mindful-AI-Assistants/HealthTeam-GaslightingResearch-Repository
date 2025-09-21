@@ -30,7 +30,7 @@
 
 > [!TIP]
 >
-> [-]() [Research conducted by the undergraduate programs in[:]()
+> [-]() Research conducted by the undergraduate programs in[:]()
 >
 >   * [***Humanistic AI and Data Science**]() at PUC-SP
 >
