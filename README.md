@@ -9,7 +9,7 @@
 
 # <p align="center">  𝚿 [Health Team Management](): Gaslighting at Work — Strategies for Self-Defense and Thriving Managemen
 ### <p align="center">  ***Managers, HR Professionals, Psychologists, Students Entering the Job Market, and Victims***
-### <p align="center"> How to Recognize, Prevent, and Overcome Psychological Manipulation in Professional Environments
+#### <p align="center"> How to Recognize, Prevent, and Overcome Psychological Manipulation in Professional Environments
 
 
 <br><br><br>
@@ -35,7 +35,7 @@ Gaslighting at Work: Self-Defense and
 >
 > [Research conducted by the undergraduate programs in]():
 >
->   * [***Humanistic AI and Data Science**]() PUC-SP
+>   * [***Humanistic AI and Data Science**]() at PUC-SP
 >
 >   * *[*Organizational Psychology**]() at PUC-SP,
 >
