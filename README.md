@@ -45,7 +45,7 @@
 
 ==================================================================================
 
-### 🌱⚠️  Still Building, Transforming, and Improving — in Life, in Soul and in This Repository !
+### 🌱⚠️  Still Building, Transforming, and Improving — in Life, in Soul and in This Repository ! 🌻
 
 ==================================================================================
 
