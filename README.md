@@ -4,7 +4,7 @@
  \[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇺🇸 English](README.md)**\]
 
 
-<br><br>
+<br><br><br>
 
 
 # <p align="center">  𝚿 [Health Team Management](): Gaslighting at Work — Strategies for Self-Defense and Thriving Management
