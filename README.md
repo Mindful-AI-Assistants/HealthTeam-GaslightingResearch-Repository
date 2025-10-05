@@ -15,7 +15,7 @@
  *How to Recognize, Prevent, and Overcome Psychological Manipulation in Professional Environments*
 
 
-<br><br><br>
+<br><br>
 
 
 <p align="center">
@@ -23,7 +23,7 @@
  </p>
 
 
-<br><br><br>
+<br><br>
 
 
 This material was developed with the purpose of providing **psychological support, professional guidance, and solid scientific grounding** to victims and managers who seek to understand and effectively address the phenomenon of *gaslighting* in the workplace — both in Brazil and in international contexts.
