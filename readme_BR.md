@@ -28,3 +28,19 @@ Essas profissionais lideram núcleos de referência em **Soft Skills, Pesquisas 
 
 
 <br><br>
+
+<br><br>  
+
+====================================================================================
+
+### 🌱⚠️  Still Building, Transforming, and Improving — in Life, in Soul and in This Repository  🌻
+
+====================================================================================
+
+<br><br>  
+
+
+
+
+
+
