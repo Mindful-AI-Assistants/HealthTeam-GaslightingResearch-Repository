@@ -28,7 +28,7 @@ This material was developed with the purpose of providing **psychological suppor
 
 The content brings together contributions from **Organizational, Clinical, and Humanistic Psychologists**, as well as **Data Scientists specialized in Artificial Intelligence**, affiliated with the Department of Applied Social Sciences at FEA-PUC-SP.
 
-It also includes the collaboration of [**Fabiana Campanari**](https://linktr.ee/fabianacampanari), Organizational Psychologist at PUC-SP and undergraduate student in **Humanistic AI and Data Science**](mailto:fabicampanari@proton.me) at the same institution.
+It also includes the collaboration of [**Fabiana Campanari**](https://linktr.ee/fabianacampanari), Organizational Psychologist at PUC-SP and undergraduate student in [**Humanistic AI and Data Science**](mailto:fabicampanari@proton.me) at the same institution.
 
 The academic and institutional coordination is under the supervision of [**Professor Dr. Mitz Cruz**, Psychologist and Pro-Rector for Culture and Community Relations at PUC-SP](), and [**Professor Dr. Dora Kaufman**, Coordinator of Ethics in Artificial Intelligence at TIDD-PUC-SP}().
 
