@@ -70,11 +70,11 @@ These professionals lead reference centers in [**Soft Skills, Human Resources Re
 
 <br><br>  
 
-====================================================================================================
+===============================================================================
 
-### ⚠️  Still Building,  🌱 Transforming, and Improving — in Life, in Soul and in This Repository  🌻
+### ⚠️  Still Building, 🌱 Transforming, and Improving — in Life, in Soul and in This Repository  🌻
 
-=====================================================================================================
+=================================================================================
 
 <br><br>  
 
