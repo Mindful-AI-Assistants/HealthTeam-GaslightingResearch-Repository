@@ -11,9 +11,7 @@
 
 <br>
 
-O conteudo  desse reposiotorio é proveniente do estudo e pesquisa elaborado por uma equipe multidisciplinar composta por Psicólogos Organizacionais, Clínicos e Humanísticos, Data Scientists especializados 
-em Inteligência Artificial Organizacionais, Clínicos e Humanísticos, Data Scientists especializados em Inteligência Artificial do Departamento de Ciências Sociais Aplicadas da FEA da PUC-SP,
-e conta tatambém com a contribuição de Fabiana Campanari, Psicóloga Organizacional da PUC-SP e graduanda em Humanistic AI na graduação de Data Science da PUC-SP.
+O conteudo  desse reposiotorio é proveniente do estudo e pesquisa elaborado por uma equipe multidisciplinar composta por Psicólogos Organizacionais, Clínicos e Humanísticos, Data Scientists especializados  Organizacionais, Clínicos e Humanísticos, Data Scientists especializados em Inteligência Artificial do Departamento de Ciências Sociais Aplicadas da FEA da PUC-SP,e  conta tatambém com a contribuição de Fabiana Campanari, Psicóloga Organizacional da PUC-SP e graduanda em Humanistic AI e Data Science da PUC-SP.
 
 
 A coordenação acadêmica e institucional está sob a supervisão da **Professora Doutora e Psicóloga Mitz Cruz, Pró-Reitora de Cultura e Relações Comunitárias da PUC-SP**, e da **Professora Doutora Dora Kaufman, Coordenadora de Ética em Inteligência Artificial do TIDD PUC-SP**.
