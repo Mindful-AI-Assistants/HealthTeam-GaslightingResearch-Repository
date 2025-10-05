@@ -4,30 +4,18 @@
  \[[🇧🇷 Português](README.pt_BR.md)\] \[**[🇺🇸 English](README.md)**\]
 
 
-<br><br><br>
-
-
-## <p align="center">  𝚿 [Health Team Management](): Gaslighting at Work - Strategies for Self-Defense and Thriving Management
-#### <p align="center">  *A Psychological Guide for Managers, HR Professionals, Psychologists, Students Entering the Job Market, and Victims*
-
-
-<br><br><br>
-
-
-<!-- 1st TEST VIDEO START -->
-
-
-<!-- TESing Video 
-
-https://github.com/user-attachments/assets/bbf7d69a-cb47-4342-9ce5-88bf6ae7ce0b
-
--->
-
 <br><br>
 
-### <p align="center"> [How to Recognize, Prevent, and Overcome Psychological Manipulation in Professional Environments]()
+## 𝚿 [Health Team Management](): *Gaslighting at Work — Strategies for Self-Defense and Healthy Management*
+
+<br><br>    
+
+### A Psychological Guide for Managers, HR Professionals, Psychologists, Students Entering the Job Market, and Victims
+
+#### *How to Recognize, Prevent, and Overcome Psychological Manipulation in Professional Environments*
 
 
+<br><br><br>
 
 
 <p align="center">
@@ -35,6 +23,17 @@ https://github.com/user-attachments/assets/bbf7d69a-cb47-4342-9ce5-88bf6ae7ce0b
  </p>
 
 
+<br><br><br>
+
+
+This material was developed with the purpose of providing **psychological support, professional guidance, and solid scientific grounding** to victims and managers who seek to understand and effectively address the phenomenon of *gaslighting* in the workplace — both in Brazil and in international contexts.
+
+The content brings together contributions from **Organizational, Clinical, and Humanistic Psychologists**, as well as **Data Scientists specialized in Artificial Intelligence**, affiliated with the Department of Applied Social Sciences at FEA-PUC-SP.
+It also includes the collaboration of **Fabiana Campanari**, Organizational Psychologist at PUC-SP and undergraduate student in **Humanistic AI** and **Data Science** at the same institution.
+
+The academic and institutional coordination is under the supervision of **Professor Dr. Mitz Cruz**, Psychologist and Pro-Rector for Culture and Community Relations at PUC-SP, and **Professor Dr. Dora Kaufman**, Coordinator of Ethics in Artificial Intelligence at TIDD-PUC-SP.
+
+These professionals lead reference centers in **Soft Skills, Human Resources Research, Workplace Health**, and **AI Ethics**.
 
 
 <br><br><br>
