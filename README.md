@@ -6,7 +6,7 @@
 
 <br><br>
 
-## 𝚿 [Health Team Management](): *Gaslighting at Work — Strategies for Self-Defense and Healthy Management*
+## 𝚿  [Health Team Management](): *Gaslighting at Work — Strategies for Self-Defense and Healthy Management*
 
 <br>
 
