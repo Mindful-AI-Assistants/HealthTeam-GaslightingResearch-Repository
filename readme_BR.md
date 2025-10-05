@@ -10,11 +10,10 @@
 # 𝚿 [Health Team Management](): *Gaslighting no Trabalho — Estratégias de Autodefesa e Gestão Saudável*
 
 
-<br><br>
+<br>
 
-
-## Um Guia Psicológico para Gestores, Profissionais de RH, Psicólogos, Estudantes em Início de Carreira e Vítimas
-### *Como reconhecer, prevenir e superar a manipulação psicológica em ambientes profissionais*
+### Um Guia Psicológico para Gestores, Profissionais de RH, Psicólogos, Estudantes em Início de Carreira e Vítimas
+#### *Como reconhecer, prevenir e superar a manipulação psicológica em ambientes profissionais*
 
 <br><br>
 
