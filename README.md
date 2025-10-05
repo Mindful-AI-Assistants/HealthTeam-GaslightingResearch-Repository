@@ -36,7 +36,7 @@ The academic and institutional coordination is under the supervision of **Profes
 These professionals lead reference centers in **Soft Skills, Human Resources Research, Workplace Health**, and **AI Ethics**.
 
 
-<br><br><br>
+<br>
 
 
 #  
