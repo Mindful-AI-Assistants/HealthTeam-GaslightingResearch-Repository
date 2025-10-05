@@ -7,12 +7,16 @@
 <br><br>
 
 
-# 𝚿 Health Team Management: Gaslighting no Trabalho — Estratégias de Autodefesa e Gestão Saudável
+# 𝚿 [Health Team Management](): *Gaslighting no Trabalho — Estratégias de Autodefesa e Gestão Saudável*
+
 
 <br><br>
 
+
 ## Um Guia Psicológico para Gestores, Profissionais de RH, Psicólogos, Estudantes em Início de Carreira e Vítimas
-###b **Como reconhecer, prevenir e superar a manipulação psicológica em ambientes profissionais**
+### *Como reconhecer, prevenir e superar a manipulação psicológica em ambientes profissionais*
+
+<br><br>
 
 Este material foi desenvolvido com o propósito de oferecer **suporte psicológico, orientação profissional e fundamentação científica consistente** a vítimas e gestores que buscam compreender e enfrentar, de forma eficaz, o fenômeno do *gaslighting* no ambiente de trabalho — tanto no Brasil quanto em contextos internacionais.
 
