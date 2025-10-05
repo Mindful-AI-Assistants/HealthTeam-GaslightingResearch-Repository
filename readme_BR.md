@@ -2,6 +2,10 @@
 
 <br>
 
+ \[**[🇧🇷 Português](README.pt_BR.md)**\] \[[🇺🇸 English](README.md)\]
+
+<br>
+
 
 # [Introducao]()
 
@@ -15,3 +19,5 @@ e conta tatambém com a contribuição de Fabiana Campanari, Psicóloga Organiza
 A coordenação acadêmica e institucional está sob a supervisão da **Professora Doutora e Psicóloga Mitz Cruz, Pró-Reitora de Cultura e Relações Comunitárias da PUC-SP**, e da **Professora Doutora Dora Kaufman, Coordenadora de Ética em Inteligência Artificial do TIDD PUC-SP**.
 
 Essas profissionais lideram núcleos proeminentes de Soft Skills, Pesquisas em Recursos Humanos, Saúde no Ambiente de Trabalho e Ética em IA.
+
+<br><br>
