@@ -11,7 +11,7 @@
 
 <br>
 
-O conteudo dp presente estudo e pesquisa foi elaborado por uma equipe multidisciplinar composta por Psicólogos Organizacionais, Clínicos e Humanísticos, Data Scientists especializados 
+O conteudo  desse reposiotorio é proveniente do estudo e pesquisa elaborado por uma equipe multidisciplinar composta por Psicólogos Organizacionais, Clínicos e Humanísticos, Data Scientists especializados 
 em Inteligência Artificial Organizacionais, Clínicos e Humanísticos, Data Scientists especializados em Inteligência Artificial do Departamento de Ciências Sociais Aplicadas da FEA da PUC-SP,
 e conta tatambém com a contribuição de Fabiana Campanari, Psicóloga Organizacional da PUC-SP e graduanda em Humanistic AI na graduação de Data Science da PUC-SP.
 
