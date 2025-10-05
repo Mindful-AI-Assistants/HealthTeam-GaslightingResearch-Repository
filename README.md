@@ -11,6 +11,7 @@
 <br>
 
  A Psychological Guide for Managers, HR Professionals, Psychologists, Students Entering the Job Market, and Victims. 
+ 
  *How to Recognize, Prevent, and Overcome Psychological Manipulation in Professional Environments*
 
 
