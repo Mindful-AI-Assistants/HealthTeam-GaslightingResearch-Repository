@@ -30,7 +30,7 @@ The content brings together contributions from **Organizational, Clinical, and H
 
 It also includes the collaboration of [**Fabiana Campanari**](https://linktr.ee/fabianacampanari), Organizational Psychologist at PUC-SP and undergraduate student in [**Humanistic AI and Data Science**](mailto:fabicampanari@proton.me) at the same institution.
 
-The academic and institutional coordination is under the supervision of [**Professor Dr. Mitz Cruz**, Psychologist and Pro-Rector for Culture and Community Relations at PUC-SP](), and [**Professor Dr. Dora Kaufman**, Coordinator of Ethics in Artificial Intelligence at TIDD-PUC-SP}().
+The academic and institutional coordination is under the supervision of [**Professor Dr. Mitz Cruz**, Psychologist and Pro-Rector for Culture and Community Relations at PUC-SP](), and [**Professor Dr. Dora Kaufman**, Coordinator of Ethics in Artificial Intelligence at TIDD-PUC-SP]().
 
 These professionals lead reference centers in [**Soft Skills, Human Resources Research, Workplace Health**, and **AI Ethics**]().
 
