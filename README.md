@@ -24,7 +24,7 @@
 <br><br>
 
 
-This material was developed with the purpose of providing **psychological support, professional guidance, and solid scientific grounding** to victims and managers who seek to understand and effectively address the phenomenon of *gaslighting* in the workplace — [both in Brazil and in international contextsP}().
+This material was developed with the purpose of providing **psychological support, professional guidance, and solid scientific grounding** to victims and managers who seek to understand and effectively address the phenomenon of *gaslighting* in the workplace — [both in Brazil and in international contexts]().
 
 The content brings together contributions from **Organizational, Clinical, and Humanistic Psychologists**, as well as **Data Scientists specialized in Artificial Intelligence**, affiliated with the Department of Applied Social Sciences at FEA-PUC-SP.
 It also includes the collaboration of [**Fabiana Campanari****](), Organizational Psychologist at PUC-SP and undergraduate student in **Humanistic AI and **Data Science** at the same institution.
