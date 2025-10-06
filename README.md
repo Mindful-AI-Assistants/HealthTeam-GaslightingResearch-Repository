@@ -100,7 +100,7 @@ These professionals lead reference centers in [**Soft Skills, Human Resources Re
 <p align="center">
     <img src="https://github.com/user-attachments/assets/dc18e7c5-4118-4f7b-96c3-eba5e8178b8d" />
 
-###### <p align="center"> *Narciso - Symbolic Appropriation (Mimic): Observation, Elimination, Adoption*
+###### <p align="center">  🪞*Narciso - Symbolic Appropriation (Mimic): Observation, Elimination, Adoption*
 
 <br><br>
 
