@@ -91,10 +91,14 @@ These professionals lead reference centers in [**Soft Skills, Human Resources Re
    - **Invisibility:** Victim’s originality and identity are erased.  
    - **Symbolic Gain:** Gaslighter strengthens status and influence by impersonating the victim.
 
+<br><br>
 
-![Image](https://github.com/user-attachments/assets/dc18e7c5-4118-4f7b-96c3-eba5e8178b8d)
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/dc18e7c5-4118-4f7b-96c3-eba5e8178b8d" />
 
+##### *Narciso - Symbolic Appropriation (Mimic): Observation, Elimination, Adoption*
 
+<br><br>
 
 
 
