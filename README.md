@@ -96,7 +96,7 @@ These professionals lead reference centers in [**Soft Skills, Human Resources Re
 
 <br><br>
 
-### <p align="center"> � [See The the Cycle](#) 🎭 ↯
+### <p align="center"> 🪞 [See The the Cycle](#) 🎭 ↯
 
 <br><br>
 
