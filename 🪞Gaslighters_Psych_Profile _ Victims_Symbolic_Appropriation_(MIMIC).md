@@ -1,7 +1,7 @@
 
 <br>
 
-# 🪞 Psychological Profile of Tech Gaslighters and Symbolic Appropriation (MIMIC) of Their Victims 🪞
+## 🪞 Psychological Profile of Tech Gaslighters and Symbolic Appropriation (MIMIC) of Their Victims 🪞
 
 <br><br>
 
