@@ -68,17 +68,9 @@ These professionals lead reference centers in [**Soft Skills, Human Resources Re
 > 
 
 
-<br><br>  
 
-=================================================================================
 
-### ⚠️ 🌱 Still Building, Transforming and Improving — in Life, in Soul and in This Repository 🌻
-
-==================================================================================
-
-<br><br>  
-
-<br>
+<br><br>
 
 ## The 4 Steps that Compose the Phenomenon of Narcissistic Symbolic Appropriation (MIMIC)
 
@@ -104,7 +96,7 @@ These professionals lead reference centers in [**Soft Skills, Human Resources Re
 
 <br><br>
 
-### <p align="center">  🎭 [See The the Cycle](#) 🪞
+### <p align="center"> � [See The the Cycle](#) 🎭 ↯
 
 <br><br>
 
@@ -126,9 +118,15 @@ style D fill:#0a0a0a,stroke:#1ABC9C,stroke-width:2px
 
 <br><br>
 
+  
 
+=================================================================================
 
+### ⚠️ 🌱 Still Building, Transforming and Improving — in Life, in Soul and in This Repository 🌻
 
+==================================================================================
+
+<br><br>  
 
 
 
