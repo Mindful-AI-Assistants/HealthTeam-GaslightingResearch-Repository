@@ -3,11 +3,11 @@
 
 # 🪞 Psychological Profile of Tech Gaslighters and Symbolic Appropriation (MIMIC) of Their Victims 🪞
 
-<br>
-
-## Overview
-
 <br><br>
+
+### Overview
+
+<br>
 
 In corporate tech environments, gaslighting extends beyond subtle manipulation. Once a perceived threat is removed, the gaslighter may **mimic and appropriate not only the victim’s work but also their style, communication patterns, and even personality traits**. This behavior, termed **symbolic appropriation (MIMIC)**, effectively erases the victim’s presence and identity while enhancing the gaslighter’s symbolic and social capital.
 
