@@ -78,7 +78,21 @@ These professionals lead reference centers in [**Soft Skills, Human Resources Re
 
 <br><br>  
 
+<br>
 
+## The 4 Steps that Compose the Phenomenon of Narcissistic Symbolic Appropriation (MIMIC)
+
+<br>
+
+1. **Observation:** Mapping victim’s respected traits—technical skills, communication, personality markers.  
+2. **Elimination:** Removing the victim from visibility and recognition.  
+3. **Adoption:** Gradually incorporating intellectual contributions, style, and personal identity markers.  
+4. **Double Harm:**  
+   - **Invisibility:** Victim’s originality and identity are erased.  
+   - **Symbolic Gain:** Gaslighter strengthens status and influence by impersonating the victim.
+
+
+![Image](https://github.com/user-attachments/assets/dc18e7c5-4118-4f7b-96c3-eba5e8178b8d)
 
 
 
