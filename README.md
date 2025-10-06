@@ -84,6 +84,10 @@ These professionals lead reference centers in [**Soft Skills, Human Resources Re
 
 <br>
 
+➠ [🪞 See in Detail here](https://github.com/Mindful-AI-Assistants/HealthTeam-GaslightingResearch-Repository/blob/e02b0037b04347adf7513a7166b6fc9310b4c77b/%F0%9F%AA%9EGaslighters_Psych_Profile%20_%20Victims_Symbolic_Appropriation_(MIMIC).md)
+
+<br><br>
+
 1. **Observation:** Mapping victim’s respected traits—technical skills, communication, personality markers.  
 2. **Elimination:** Removing the victim from visibility and recognition.  
 3. **Adoption:** Gradually incorporating intellectual contributions, style, and personal identity markers.  
@@ -96,7 +100,7 @@ These professionals lead reference centers in [**Soft Skills, Human Resources Re
 <p align="center">
     <img src="https://github.com/user-attachments/assets/dc18e7c5-4118-4f7b-96c3-eba5e8178b8d" />
 
-##### *Narciso - Symbolic Appropriation (Mimic): Observation, Elimination, Adoption*
+###### <p align="center"> *Narciso - Symbolic Appropriation (Mimic): Observation, Elimination, Adoption*
 
 <br><br>
 
