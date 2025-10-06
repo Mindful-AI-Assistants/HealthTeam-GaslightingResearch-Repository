@@ -104,11 +104,27 @@ These professionals lead reference centers in [**Soft Skills, Human Resources Re
 
 <br><br>
 
+[✨ See Full Diagram →](#)
+
+<br><br>
 
 
+```mermaid
+%%{init: {'theme':'dark', 'themeVariables': { 'primaryColor': '#1ABC9C', 'primaryBorderColor': '#16A085', 'lineColor': '#1ABC9C', 'fontSize': '16px'}}}%%
 
+flowchart TD
+    A[🔍 Observation<br/>Mapping victim’s admired traits] --> B[🚫 Elimination<br/>Excluding the victim from visibility and influence]
+    B --> C[🎭 Adoption<br/>Appropriating intellectual contributions and personal identity markers]
+    C --> D[⚡ Double Harm<br/>Invisibility of victim + Symbolic gain for gaslighter]
+    D -.-> A
 
+style A fill:#0a0a0a,stroke:#1ABC9C,stroke-width:2px
+style B fill:#0a0a0a,stroke:#1ABC9C,stroke-width:2px
+style C fill:#0a0a0a,stroke:#1ABC9C,stroke-width:2px
+style D fill:#0a0a0a,stroke:#1ABC9C,stroke-width:2px
+```
 
+<br><br>
 
 
 
