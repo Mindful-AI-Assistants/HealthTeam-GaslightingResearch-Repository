@@ -104,7 +104,7 @@ These professionals lead reference centers in [**Soft Skills, Human Resources Re
 
 <br><br>
 
-[✨ See Full Diagram →](#)
+### <p align="center"> [✨ See Full Diagram ](#)
 
 <br><br>
 
