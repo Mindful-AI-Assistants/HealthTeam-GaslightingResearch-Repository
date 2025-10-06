@@ -7,7 +7,7 @@
 
 ![Image](https://github.com/user-attachments/assets/dc18e7c5-4118-4f7b-96c3-eba5e8178b8d)
 
-#### *Narciso - Symbolic Appropriation (Mimic): Observation, Elimination, Adoption*
+##### *Narciso - Symbolic Appropriation (Mimic): Observation, Elimination, Adoption*
 
 <br><br>
 
